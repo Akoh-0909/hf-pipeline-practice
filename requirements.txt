@@ -1,0 +1,9 @@
+huggingface_hub==1.4.1
+numpy==2.4.2
+pandas==3.0.1
+safetensors==0.7.0
+tokenizers==0.22.2
+torch==2.10.0
+torchinfo==1.8.0
+torchviz==0.0.3
+transformers==5.2.0
